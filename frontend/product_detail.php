@@ -108,7 +108,7 @@
 										<span class="qty-up">+</span>
 										<span class="qty-down">-</span>
 									</div>
-								</div>
+								</div><br><br>
 								<button class="add-to-cart-btn" onclick="addCart(<?=$id?>,1);themThanhCong(<?=$id?>);"><i class="fa fa-shopping-cart"></i> <span id="messAddCart<?=$id?>">Thêm vào giỏ</span></button>
 							</div>
 							<div id="tbQty" style="color:red"></div>
@@ -122,7 +122,7 @@
 							</ul>
 
 							<ul class="product-links">
-								<li>Chia sẽ:</li>
+								<li>Chia sẽ:</li>database
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>

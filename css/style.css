@@ -180,8 +180,8 @@ textarea.input {
 }
 
 .input-number .qty-up:hover, .input-number .qty-down:hover {
-  background-color: #E4E7ED;
-  color: #D10024;
+  background-color: #070707;
+  color: #f1edee;
 }
 
 /*-- Select input --*/
@@ -1029,7 +1029,7 @@ textarea.input {
   height: 40px;
   padding: 0 30px;
   background-color: #ef233c;
-  color: #FFF;
+  color: #fcfafa;
   text-transform: uppercase;
   font-weight: 700;
   border-radius: 40px;
@@ -1465,11 +1465,11 @@ textarea.input {
 }
 
 .product-details .product-rating>i {
-  color: #E4E7ED;
+  color: #edebe4;
 }
 
 .product-details .product-rating>i.fa-star {
-  color: #D10024;
+  color: rgb(228, 176, 33);
 }
 
 .product-details .review-link {
@@ -1481,7 +1481,7 @@ textarea.input {
   font-size: 24px;
   margin-top: 10px;
   margin-bottom: 15px;
-  color: #D10024;
+  color: #0a0a0a;
 }
 
 .product-details .product-price .product-old-price {
@@ -1495,7 +1495,7 @@ textarea.input {
   text-transform: uppercase;
   font-weight: 700;
   margin-left: 30px;
-  color: #D10024;
+  color: #0a090a;
 }
 
 .product-details .product-options {
@@ -1524,7 +1524,7 @@ textarea.input {
   border: 2px solid transparent;
   height: 40px;
   padding: 0 30px;
-  background-color: #ef233c;
+  background-color: #453f40;
   color: #FFF;
   text-transform: uppercase;
   font-weight: 700;
@@ -1540,15 +1540,15 @@ textarea.input {
   width: 40px;
   height: 40px;
   line-height: 38px;
-  color: #D10024;
+  color: #050505;
   opacity: 0;
   visibility: hidden;
 }
 
 .product-details .add-to-cart .add-to-cart-btn:hover {
   background-color: #FFF;
-  color: #D10024;
-  border-color: #D10024;
+  color: #453f40;
+  border-color: #453f40;
   padding: 0px 30px 0px 50px;
 }
 
